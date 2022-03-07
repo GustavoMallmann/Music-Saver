@@ -11,6 +11,9 @@ The app file is musicSaver.py. For practicality, you can use it with a .bat file
 How to use:
 - To find your spotify, go to https://developer.spotify.com/dashboard/applications, create an application (name and description don't matter, you can delete it afterwards), there you'll find client id and client secret.
 - Execute preparation.py, you'll be asked for your informations, just insert them in the order they're asked. For the redirect URI i use https://github.com/GustavoMallmann/.
+- Open the link that is given to you.
+- Then you will have to copy the code that is in the end of the link you just opened and paste it in the program. You're all set.
+
 - Whenever you want to keep memory of the song you're listening, just execute MusicSaver.py, if the playlist doesn't exist, it will be created.
 
 OBS:
